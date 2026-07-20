@@ -42,7 +42,7 @@
       ],
       "expo-web-browser",
       "expo-secure-store",
-      "./withAndroidPackagingResources"
+      "./withAndroidPackaging"
     ],
     "experiments": {
       "typedRoutes": true,
